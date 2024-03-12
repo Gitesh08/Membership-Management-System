@@ -31,9 +31,9 @@
    
 3. Install Dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
-   > This installs the necessary libraries listed in ``` requirements.txt```.
+   > This installs the necessary libraries listed in ``` Requirements.txt```.
    
 4. Database Migrations:
    ```
