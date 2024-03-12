@@ -20,6 +20,7 @@
    ```
    git clone https://github.com/Gitesh08/Membership-Management-System.git
    ```
+   > Clone this repository in your local system.
    
 2. Create a Virtual Environment (Recommended):
    ```
